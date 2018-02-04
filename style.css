@@ -1,4 +1,6 @@
 body{
-background: green;
+background: purple;
+width: 760px;
+margin: 0 auto;
 }
-p{font-size: 125px;}
+p{font-size: 250px;}
